@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flagsProject/static/css/main.4b92b3bb.css",
+    "main.js": "/flagsProject/static/js/main.6ba5a23d.js",
+    "static/js/787.f6753377.chunk.js": "/flagsProject/static/js/787.f6753377.chunk.js",
+    "index.html": "/flagsProject/index.html",
+    "main.4b92b3bb.css.map": "/flagsProject/static/css/main.4b92b3bb.css.map",
+    "main.6ba5a23d.js.map": "/flagsProject/static/js/main.6ba5a23d.js.map",
+    "787.f6753377.chunk.js.map": "/flagsProject/static/js/787.f6753377.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b92b3bb.css",
+    "static/js/main.6ba5a23d.js"
+  ]
+}
